@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".supporting.ResultActivity"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    >
+
+
+    <ImageView
+        android:id="@+id/image_trophy"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/trophy"
+        android:layout_marginTop="70dp"/>
+
+    <TextView
+        android:id="@+id/textView_congratulations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/congratulations"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#F5FB9A"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/textView_userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="User Name"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginTop="32dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView_Score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="You have scored 8 out of 10"
+        android:textColor="#C8C8C8"
+        android:gravity="center"
+        android:layout_marginTop="19dp"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/fnsh_btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/finish2"
+        android:textColor="#400292"
+        android:textSize="17sp"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
