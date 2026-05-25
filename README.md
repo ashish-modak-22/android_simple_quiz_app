@@ -31,7 +31,6 @@ At the end of the quiz, the user receives a scorecard displaying:
 ## Home Screen
 <img src="ScreenShots/pic1.jpeg" width="250"/>
 
----
 
 ## Quiz Screen
 <img src="ScreenShots/pic2.jpeg" width="250"/> 
