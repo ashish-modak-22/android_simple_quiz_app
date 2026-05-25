@@ -29,8 +29,10 @@ At the end of the quiz, the user receives a scorecard displaying:
 # 📸 Screenshots
 
 ## Home Screen
+<p align="center">
 <img src="ScreenShots/pic1.jpeg" width="250"/>
-
+</p>
+---
 
 ## Quiz Screen
 <p align="center">
@@ -41,8 +43,9 @@ At the end of the quiz, the user receives a scorecard displaying:
 ---
 
 ## Result Screen
+<p align="center">
 <img src="ScreenShots/pic4.jpeg" width="250"> 
-
+</p>
 ---
 
 # 🛠️ Tools & Technologies Used
