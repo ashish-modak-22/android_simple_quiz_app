@@ -66,7 +66,7 @@ At the end of the quiz, the user receives a scorecard displaying:
 
 # 📂 Project Structure
 
-```bash
+```text
 QuizApp/
 │
 ├── .idea/
