@@ -66,7 +66,7 @@ At the end of the quiz, the user receives a scorecard displaying:
 
 # 📂 Project Structure
 
-text
+```bash
 QuizApp/
 │
 ├── .idea/
@@ -106,7 +106,7 @@ QuizApp/
 ├── gradlew
 ├── gradlew.bat
 └── settings.gradle.kts
-
+```
 
 ---
 
