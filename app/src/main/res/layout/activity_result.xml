@@ -9,11 +9,22 @@
     android:orientation="vertical"
     >
 
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/history_button"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:padding="23dp"
+        android:src="@drawable/history_img"
+        android:tint="@color/white"
+        android:contentDescription="@string/history"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"/>
 
     <ImageView
         android:id="@+id/image_trophy"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:contentDescription="Congrats"
         android:src="@drawable/trophy"
         android:layout_marginTop="70dp"/>
 
@@ -52,14 +63,28 @@
 
     <Button
         android:id="@+id/fnsh_btn"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/finish2"
-        android:textColor="#400292"
-        android:textSize="17sp"
-        android:textAllCaps="false"
+        android:layout_marginLeft="20dp"
         android:layout_marginTop="10dp"
-        android:background="@color/white"/>
+        android:layout_marginRight="20dp"
+        android:background="@color/white"
+        android:text="@string/finish2"
+        android:textAllCaps="false"
+        android:textColor="#400292"
+        android:textSize="17sp" />
+
+    <Button
+    android:id="@+id/save_btn"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Save"
+    android:textColor="#400292"
+    android:textSize="17sp"
+    android:textAllCaps="false"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"/>
+
 </androidx.appcompat.widget.LinearLayoutCompat>
