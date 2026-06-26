@@ -44,7 +44,8 @@ At the end of the quiz, the user receives a scorecard displaying:
 
 ## Result Screen
 <p align="center">
-<img src="ScreenShots/pic4.jpeg" width="250"> 
+  <img src="ScreenShots/Onsaving.jpeg" width="250"/>
+  <img src="ScreenShots/alreadySaved.jpeg" width="250"/>
 </p>
 ---
 
