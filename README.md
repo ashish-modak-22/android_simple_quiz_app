@@ -128,6 +128,8 @@ QuizApp/
 - Automatic correct answer highlighting
 - Progress bar
 - Result screen with score
+- Save option is there to save your progress
+- Local database is added to save the progress
 - Interactive UI
 
 ---
