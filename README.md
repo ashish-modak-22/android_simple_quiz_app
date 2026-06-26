@@ -32,6 +32,7 @@ At the end of the quiz, the user receives a scorecard displaying:
 <p align="center">
 <img src="ScreenShots/pic1.jpeg" width="250"/>
 </p>
+
 ---
 
 ## Quiz Screen
@@ -47,6 +48,13 @@ At the end of the quiz, the user receives a scorecard displaying:
   <img src="ScreenShots/Onsaving.jpeg" width="250"/>
   <img src="ScreenShots/alreadySaved.jpeg" width="250"/>
 </p>
+
+---
+## History Screen
+<p align="center">
+  <img src="ScreenShots/history.jpeg" width="250"/>
+</p>
+
 ---
 
 # 🛠️ Tools & Technologies Used
