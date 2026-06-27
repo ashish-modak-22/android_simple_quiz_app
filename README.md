@@ -162,7 +162,6 @@ Possible future enhancements for the project:
 - Dark mode support
 - Randomized questions
 - Difficulty levels
-- Database integration
 - Online multiplayer mode
 - More countries and categories
 
