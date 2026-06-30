@@ -1,6 +1,18 @@
 # Quiz App 🌍📱
 
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-46D1A2?style=for-the-badge&logo=android-studio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E535AB?style=for-the-badge&logo=xml&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)
+
 A simple Android Quiz App based on country flags and their corresponding continents.
+
+</div>
 
 ---
 
